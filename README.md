@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="http://github.com/" target="_blank"><img src="https://img.shields.io/badge/flutter-ffffff?style=flat-square&logo=02569B&logoColor=02569B"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evvvaaaaan&show_icons=true&theme=radical)
 <!--
 **Evvvaaaaan/Evvvaaaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
