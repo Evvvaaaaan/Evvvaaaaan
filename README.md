@@ -54,6 +54,7 @@
   
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=Evvvaaaaan&theme=calm&hide_border=true)
+  ![Snake Dark](https://raw.githubusercontent.com/Evvvaaaaan/Evvvaaaaan/output/github-contribution-grid-snake.svg)
 
   
   </div>
