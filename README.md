@@ -52,8 +52,9 @@
   
   <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evvvaaaaan&show_icons=true&theme=tokyonight&hide_border=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Evvvaaaaan&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   ![GitHub Streak](https://streak-stats.demolab.com?user=Evvvaaaaan&theme=calm&hide_border=true)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=Evvvaaaaan&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
   
   </div>
   
