@@ -1,9 +1,11 @@
  <!-- Header -->
   <div align="center">
 
-  # 안녕하세요, 저는 Evan입니다 👋
+  # 안녕하세요, 송준선(Evan Song)입니다 👋
 
   ### AI로 선한 영향을 만드는 개발자
+
+  🌐 포트폴리오: **[evvvaaaaan.com](https://evvvaaaaan.com)** · [전체 프로필](https://evvvaaaaan.com/about)
 
   *"기술은 도구입니다. 그 도구를 어떤 방향으로 쓸지 결정하는 건 사람입니다."*
 
@@ -43,8 +45,9 @@
   
   | 프로젝트 | 설명 | 기술 |
   |---------|------|------|
-  | **[Vision AI Evaluator]()** | CCTV 영상 기반 Vision AI 분석 | Python, Gemini, Yolo |
-  | **[FindX]()** | LBS 기반 분실물 서비스 | React, Tailwind, TypeScript |
+  | **[Spotline](https://evvvaaaaan.com/projects/spotline)** | CCTV 영상 기반 Vision AI 매장 분석 · Google Cloud AI Agent Challenge 우수상 | Python, YOLO, FastAPI |
+  | **[CampOn](https://evvvaaaaan.com/projects/campon)** | AI 캠핑 플래너가 있는 캠핑장 추천 앱 · App Store 출시 | Flutter, Gemini |
+  | **[FindX](https://evvvaaaaan.com/projects/findx)** | LBS 기반 분실물 서비스 · App Store 출시 | React, Tailwind, TypeScript |
    
   ---
   
@@ -65,6 +68,7 @@
   
   <div align="center">
  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://evvvaaaaan.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evvvaaaaan/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmfhrmfoald36@gmail.com)
   
